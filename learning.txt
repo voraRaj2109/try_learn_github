@@ -1,3 +1,14 @@
-this file is just created from vs code.
-this line from created from github.
-try to pull this line.
+git init
+
+how to push code local to github
+how to pull github to local 
+
+understading to branch 
+pull request and mearge request from another branch and try to mearge request for mering a code
+
+understading a hook concept for checking a code and make a proper formate for entire code 
+using fork library it's cheking python code and make a file insde the hook folder and give a excutale access
+for ruuning this file before commit command. 
+
+and deploy entire project using git hub and using aws.
+
