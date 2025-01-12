@@ -1,14 +1,14 @@
-git init
+git init 
 
-how to push code local to github
-how to pull github to local 
+learn how to push locally to github
+learn how to pull git hub to local
 
-understading to branch 
-pull request and mearge request from another branch and try to mearge request for mering a code
+learn how to copy project from github to github (fork)
+learn how to clone entire project 
 
-understading a hook concept for checking a code and make a proper formate for entire code 
-using fork library it's cheking python code and make a file insde the hook folder and give a excutale access
-for ruuning this file before commit command. 
+understand how to using git hook concept (checking code)
+using fork8 library and make a file inside the hook folder and check the code before commit command 
+if code is wrong or make a mistke inside the code then we cannot commit into the github.
 
-and deploy entire project using git hub and using aws.
 
+deploye the entire project using git hub+ aws 
