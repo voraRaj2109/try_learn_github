@@ -1,3 +1,14 @@
-this file is just created from vs code.
-this line from created from github.
-try to pull this line.
+git init 
+
+learn how to push locally to github
+learn how to pull git hub to local
+
+learn how to copy project from github to github (fork)
+learn how to clone entire project 
+
+understand how to using git hook concept (checking code)
+using fork8 library and make a file inside the hook folder and check the code before commit command 
+if code is wrong or make a mistke inside the code then we cannot commit into the github.
+
+
+deploye the entire project using git hub+ aws 
